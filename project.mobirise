@@ -18,7 +18,7 @@
         "warningColor": "#CC9900",
         "dangerColor": "#AE1E2C",
         "mainFont": "Liter",
-        "display1Font": "Liter",
+        "display1Font": "Inter Tight",
         "display1Size": 5,
         "display2Font": "Liter",
         "display2Size": 4,
