@@ -820,7 +820,7 @@ a {
   margin: 0 !important;
 }
 .cid-v1Y5ZNMbxJ .navbar-brand {
-  background-color: #232323;
+  background-color: #000000;
   display: flex;
   margin-bottom: -3rem;
   transform: scale(1.2);
@@ -869,7 +869,7 @@ a {
   font-weight: 600;
 }
 .cid-v1Y5ZNMbxJ .nav-link:hover {
-  color: #232323 !important;
+  color: #000000 !important;
 }
 .cid-v1Y5ZNMbxJ .nav-link:hover:before {
   opacity: 1;
@@ -884,7 +884,7 @@ a {
   width: 12px;
   transition: all 0.3s;
   opacity: 0;
-  background: #232323;
+  background: #000000;
 }
 .cid-v1Y5ZNMbxJ .btn-white {
   color: #000000 !important;
@@ -1245,7 +1245,7 @@ a {
 .cid-vflIZt4QxW {
   padding-top: 4rem;
   padding-bottom: 4rem;
-  background-color: #ffffff;
+  background-color: #ea1a1a;
 }
 .cid-vflIZt4QxW .mbr-fallback-image.disabled {
   display: none;
@@ -1258,6 +1258,9 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-vflIZt4QxW .mbr-section-title {
+  color: #ffffff;
 }
 .cid-vflHhaTtaM {
   background-image: url("../../../assets/images/unnamed-26.webp");
@@ -1350,7 +1353,7 @@ a {
 .cid-vflK0IaBhf {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #edefeb;
+  background-color: #ea1a1a;
 }
 .cid-vflK0IaBhf .mbr-fallback-image.disabled {
   display: none;
