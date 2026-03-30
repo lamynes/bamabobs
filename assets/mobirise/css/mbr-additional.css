@@ -1198,6 +1198,26 @@ a {
 .cid-vfmnkCmaiN .row {
   flex-direction: row-reverse;
 }
+.cid-vfmSznZLU3 {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #ea1a1a;
+}
+.cid-vfmSznZLU3 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vfmSznZLU3 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vfmSznZLU3 .mbr-section-title {
+  color: #ffffff;
+}
 .cid-vflHhaTtaM {
   background-image: url("../../../assets/images/unnamed-26.webp");
 }
