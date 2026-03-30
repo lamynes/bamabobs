@@ -1298,66 +1298,6 @@ a {
   font-size: 60px;
   color: #777;
 }
-#custom-html-1d {
-  /* Mobile responsive */
-}
-#custom-html-1d body {
-  background: #1a1a1a;
-  margin: 0;
-  padding: 0;
-  font-family: 'Arial', sans-serif;
-}
-#custom-html-1d .bbq-menu {
-  max-width: 1300px;
-  margin: auto;
-  padding: 40px 20px;
-  background: #111111 url('https://i.imgur.com/8fKQJcN.png') repeat;
-  /* chalkboard texture */
-  color: #f2f2f2;
-  border: 8px solid #2a2a2a;
-  box-shadow: 0 0 40px rgba(0, 0, 0, 0.8);
-}
-#custom-html-1d .logo-container {
-  text-align: center;
-  margin-bottom: 40px;
-}
-#custom-html-1d .logo-container img {
-  max-width: 350px;
-  height: auto;
-}
-#custom-html-1d .menu-3col {
-  display: flex;
-  gap: 40px;
-}
-#custom-html-1d .menu-column {
-  flex: 1;
-  min-width: 280px;
-}
-#custom-html-1d h2 {
-  font-size: 1.6em;
-  margin-top: 25px;
-  border-bottom: 3px solid #b30000;
-  padding-bottom: 6px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-#custom-html-1d ul {
-  list-style: none;
-  padding-left: 0;
-}
-#custom-html-1d ul li {
-  padding: 6px 0;
-  border-bottom: 1px solid #333;
-}
-#custom-html-1d .note {
-  font-size: 0.9em;
-  color: #bbb;
-}
-@media (max-width: 900px) {
-  #custom-html-1d .menu-3col {
-    flex-direction: column;
-  }
-}
 .cid-vflK0IaBhf {
   padding-top: 5rem;
   padding-bottom: 5rem;

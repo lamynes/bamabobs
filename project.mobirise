@@ -280,7 +280,7 @@
         "url": "https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 50,
+    "uniqCompNum": 51,
     "imageResize": true,
     "mcSmartCart": {
       "currency": "USD"
@@ -939,21 +939,6 @@
           "_name": "pro.custom-html",
           "_sourceTheme": "startm5",
           "_anchor": "custom-html-17",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<div class=\"bbq-menu\">\n\n  <div class=\"logo-container\">\n    <img src=\"YOUR-LOGO-FILE.png\" alt=\"Bama Bob's BBQ Logo\">\n  </div>\n\n  <div class=\"menu-3col\">\n\n    <div class=\"menu-column\">\n      <h2>Sandwiches</h2>\n      <p class=\"note\">(a 6 oz. center cut and pulled high)</p>\n      <ul>\n        <li>Pulled Pork — $6.99</li>\n        <li>Pulled Chicken — $7.99</li>\n        <li>Pulled Brisket — $11.99</li>\n        <li>Rib (3 Bones) — $10.49</li>\n        <li>Smoked Sausage — $7.49</li>\n      </ul>\n\n      <h2>Sandwich Plates</h2>\n      <p class=\"note\">(Sandwich with 2 sides)</p>\n      <ul>\n        <li>Pulled Pork — $12.69</li>\n        <li>Pulled Chicken — $13.69</li>\n        <li>Pulled Brisket — $16.99</li>\n      </ul>\n\n      <h2>Pick a Side</h2>\n      <ul>\n        <li>BBQ Beans — $2.99 (S) / $7.29 (P)</li>\n        <li>Coleslaw — $2.99 (S) / $7.29 (P)</li>\n        <li>Potato Salad — $2.99 (S) / $7.29 (P)</li>\n        <li>Mashed Potatoes — $2.99 (S) / $7.29 (P)</li>\n        <li>Green Beans — $3.25 (S) / $7.69 (P)</li>\n        <li>Collards — $3.25 (S) / $7.69 (P)</li>\n        <li>French Fries — $3.25 (S) / $7.69 (L)</li>\n        <li>Onion Rings — $3.25 (S) / $7.69 (L)</li>\n        <li>Okra — $3.25 (S) / $7.69 (L)</li>\n        <li>Mac / Cheese — $3.25 (S) / $7.69 (L)</li>\n        <li>Fried Corn — $2.99 each</li>\n      </ul>\n\n      <h2>Desserts</h2>\n      <ul>\n        <li>Banana Pudding — $3.50 (S) / $7.99 (P)</li>\n        <li>Funnel Cake Fries — $3.49</li>\n      </ul>\n    </div>\n\n    <div class=\"menu-column\">\n      <h2>Meat Plates</h2>\n      <p class=\"note\">(meat with 2 sides)</p>\n      <ul>\n        <li>Pulled Pork — $12.99</li>\n        <li>Pulled Chicken — $13.99</li>\n        <li>Pulled Brisket — $16.99</li>\n        <li>Rib Plate (4 Bones) — $15.99</li>\n      </ul>\n\n      <h2>Combo Plates</h2>\n      <p class=\"note\">(meat with 2 sides)</p>\n      <ul>\n        <li>2 Meat Plate — $16.99</li>\n        <li>3 Meat Plate — $19.99</li>\n        <li>Add Rib — $3.50 each</li>\n        <li>Smoked Sausage Link — $3.50</li>\n        <li>Jalapeno / Cheddar Sausage — $3.50</li>\n      </ul>\n\n      <h2>Nachos</h2>\n      <ul>\n        <li>Pulled Pork — $10.99</li>\n        <li>Pulled Chicken — $11.50</li>\n        <li>Pulled Brisket — $14.69</li>\n      </ul>\n\n      <h2>Potatoes</h2>\n      <ul>\n        <li>Pulled Pork — $13.49</li>\n        <li>Pulled Chicken — $13.99</li>\n        <li>Pulled Brisket — $16.99</li>\n      </ul>\n\n      <h2>Loaded French Fries</h2>\n      <ul>\n        <li>Pulled Pork — $12.49</li>\n        <li>Pulled Chicken — $13.69</li>\n        <li>Pulled Brisket — $15.99</li>\n      </ul>\n    </div>\n\n    <div class=\"menu-column\">\n      <h2>By the Pound</h2>\n      <ul>\n        <li>Pulled Pork — $13.59</li>\n        <li>Pulled Chicken — $14.50</li>\n        <li>Pulled Brisket — $24.00</li>\n      </ul>\n\n      <h2>Ribs Only</h2>\n      <ul>\n        <li>1/2 Rack — $18.00</li>\n        <li>Full Rack — $28.00</li>\n      </ul>\n\n      <h2>Drinks</h2>\n      <p>$2.49 (M) / $3.29 (L)</p>\n      <ul>\n        <li>Pepsi</li>\n        <li>Diet Pepsi</li>\n        <li>Starry</li>\n        <li>Dr Pepper</li>\n        <li>Diet Dr Pepper</li>\n        <li>Mountain Dew</li>\n        <li>Strawberry Tea</li>\n        <li>Sweet or Unsweet Lemonade</li>\n      </ul>\n\n      <h2>Hours</h2>\n      <p>\n        Tuesday–Friday: 11 am – 6 pm<br>\n        Saturday: 11 am – 2 pm<br>\n        Sunday / Monday: Closed\n      </p>\n\n      <p class=\"note\">Menu items and prices subject to change without notice.</p>\n    </div>\n\n  </div>\n</div>",
-          "_customCSS": "body {\n  background: #1a1a1a;\n  margin: 0;\n  padding: 0;\n  font-family: 'Arial', sans-serif;\n}\n\n.bbq-menu {\n  max-width: 1300px;\n  margin: auto;\n  padding: 40px 20px;\n  background: #111 url('https://i.imgur.com/8fKQJcN.png') repeat; /* chalkboard texture */\n  color: #f2f2f2;\n  border: 8px solid #2a2a2a;\n  box-shadow: 0 0 40px rgba(0,0,0,0.8);\n}\n\n.logo-container {\n  text-align: center;\n  margin-bottom: 40px;\n}\n\n.logo-container img {\n  max-width: 350px;\n  height: auto;\n}\n\n.menu-3col {\n  display: flex;\n  gap: 40px;\n}\n\n.menu-column {\n  flex: 1;\n  min-width: 280px;\n}\n\nh2 {\n  font-size: 1.6em;\n  margin-top: 25px;\n  border-bottom: 3px solid #b30000;\n  padding-bottom: 6px;\n  text-transform: uppercase;\n  letter-spacing: 1px;\n}\n\nul {\n  list-style: none;\n  padding-left: 0;\n}\n\nul li {\n  padding: 6px 0;\n  border-bottom: 1px solid #333;\n}\n\n.note {\n  font-size: 0.9em;\n  color: #bbb;\n}\n\n/* Mobile responsive */\n@media (max-width: 900px) {\n  .menu-3col {\n    flex-direction: column;\n  }\n}\n",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_sourceTheme": "startm5",
-          "_anchor": "custom-html-1d",
           "_PHPplaceholders": [],
           "_JSplaceholders": []
         },
