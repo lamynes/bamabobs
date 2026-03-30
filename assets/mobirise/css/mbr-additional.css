@@ -1456,7 +1456,7 @@ a {
 }
 .cid-vfmiSsWJ0a .card-wrapper {
   overflow: hidden;
-  background: #edefeb;
+  background: #ffffff;
 }
 .cid-vfmiSsWJ0a .text-wrapper {
   padding: 4rem 3rem;
@@ -1476,6 +1476,9 @@ a {
   margin-right: -1rem;
   margin-left: -1rem;
 }
+.cid-vfmiSsWJ0a .row {
+  flex-direction: row-reverse;
+}
 .cid-vfmiSsWJ0a .image-wrapper {
   padding: 0 1rem;
 }
@@ -1492,6 +1495,7 @@ a {
 }
 .cid-vfmiSsWJ0a .mbr-section-title {
   color: #000000;
+  text-align: center;
 }
 .cid-vfmiSsWJ0a .mbr-text {
   color: #000000;
