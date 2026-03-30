@@ -1460,7 +1460,7 @@ a {
 .cid-v1ZCyiUUAL {
   padding-top: 3rem;
   padding-bottom: 2rem;
-  background-color: #edefeb;
+  background-color: #232323;
 }
 .cid-v1ZCyiUUAL .row {
   flex-direction: row-reverse;
@@ -1479,7 +1479,7 @@ a {
 }
 .cid-v1ZCyiUUAL .text,
 .cid-v1ZCyiUUAL .si {
-  color: #000000;
+  color: #ffffff;
   text-align: center;
 }
 .cid-v1ZCyiUUAL .copyright {
@@ -1514,4 +1514,7 @@ a {
 }
 .cid-v1ZCyiUUAL .mbr-section-subtitle {
   color: #ea1a1a;
+}
+.cid-v1ZCyiUUAL .cont {
+  color: #ffffff;
 }
