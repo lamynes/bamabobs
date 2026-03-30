@@ -1350,6 +1350,15 @@ a {
     object-fit: cover;
   }
 }
+.cid-vflTaNrf84 {
+  background-color: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-vflTaNrf84 img {
+  object-fit: contain;
+  border-radius: 0 !important;
+}
 .cid-vflK0IaBhf {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1412,6 +1421,9 @@ a {
 }
 .cid-vflK0IaBhf .google-map[data-state="loading"] [data-state-details] {
   display: none;
+}
+.cid-vflK0IaBhf .mbr-section-title {
+  color: #ffffff;
 }
 .cid-v1ZCyiUUAL {
   padding-top: 3rem;
