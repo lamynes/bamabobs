@@ -1180,77 +1180,13 @@ a {
     left: -1rem;
   }
 }
-.cid-v1Y20Ij9xR {
-  display: flex;
-  padding-top: 16rem;
-  padding-bottom: 8rem;
+.cid-vfmnkCmaiN {
   background-image: url("../../../assets/images/hd-restaurant-enhanc.png-1536x1024.png");
 }
-.cid-v1Y20Ij9xR .mbr-overlay {
-  background-color: #000000;
-  opacity: 0.3;
-}
-@media (min-width: 768px) {
-  .cid-v1Y20Ij9xR {
-    align-items: flex-end;
-  }
-  .cid-v1Y20Ij9xR .row {
-    justify-content: center;
-  }
-  .cid-v1Y20Ij9xR .content-wrap {
-    padding: 1rem 3rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-v1Y20Ij9xR .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-v1Y20Ij9xR {
-    -webkit-align-items: center;
-    align-items: flex-end;
-  }
-  .cid-v1Y20Ij9xR .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-v1Y20Ij9xR .content-wrap {
-    width: 100%;
-  }
-}
-.cid-v1Y20Ij9xR .mbr-section-title,
-.cid-v1Y20Ij9xR .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-v1Y20Ij9xR .mbr-text,
-.cid-v1Y20Ij9xR .mbr-section-btn {
-  text-align: center;
-}
-.cid-v1Y20Ij9xR .mbr-section-title {
-  color: #ffffff;
-}
-.cid-v1Y20Ij9xR .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-v1Y20Ij9xR p,
-.cid-v1Y20Ij9xR h1,
-.cid-v1Y20Ij9xR h2,
-.cid-v1Y20Ij9xR a,
-.cid-v1Y20Ij9xR h3,
-.cid-v1Y20Ij9xR h4,
-.cid-v1Y20Ij9xR h5 {
-  text-shadow: 6px 6px 10px #000000;
-}
-.cid-vfml4ZPUvI {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
-  background-color: #ea1a1a;
-}
-.cid-vfml4ZPUvI .mbr-fallback-image.disabled {
+.cid-vfmnkCmaiN .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-vfml4ZPUvI .mbr-fallback-image {
+.cid-vfmnkCmaiN .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1259,8 +1195,8 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-vfml4ZPUvI .mbr-section-title {
-  color: #ffffff;
+.cid-vfmnkCmaiN .row {
+  flex-direction: row-reverse;
 }
 .cid-vflHhaTtaM {
   background-image: url("../../../assets/images/unnamed-26.webp");
