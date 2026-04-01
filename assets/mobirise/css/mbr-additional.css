@@ -1356,20 +1356,20 @@ a {
 }
 .cid-vfA3Nf2MiY {
   background-color: #ffffff;
-  padding-top: 0;
-  padding-bottom: 0;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
 }
 .cid-vfA3Nf2MiY .carousel {
+  height: 800px;
+}
+.cid-vfA3Nf2MiY .carousel img {
   width: 100%;
-}
-.cid-vfA3Nf2MiY .carousel-inner {
-  display: flex;
-  align-content: center;
-  align-items: center;
-}
-.cid-vfA3Nf2MiY .carousel-item img {
-  height: 100vh;
+  height: 100%;
   object-fit: cover;
+}
+.cid-vfA3Nf2MiY .carousel-item,
+.cid-vfA3Nf2MiY .carousel-inner {
+  height: 100%;
 }
 .cid-vfA3Nf2MiY img,
 .cid-vfA3Nf2MiY .item-wrapper {
