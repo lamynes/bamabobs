@@ -1175,47 +1175,13 @@ a {
     left: -1rem;
   }
 }
-.cid-vfzY7mEFL6 {
-  padding-top: 8rem;
-  padding-bottom: 6rem;
+.cid-vfAcAhOZ6c {
+  padding-top: 11rem;
+  padding-bottom: 2rem;
   background-image: url("../../../assets/images/hd-vector-car-scene.png-1536x1024.png");
 }
-.cid-vfzY7mEFL6 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-vfzY7mEFL6 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-vfzY7mEFL6 .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-vfzY7mEFL6 .row {
-  align-items: center;
-}
-@media (max-width: 991px) {
-  .cid-vfzY7mEFL6 .image-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-vfzY7mEFL6 .text-wrapper {
-    padding: 0 2rem;
-  }
-}
-.cid-vfzY7mEFL6 .mbr-section-title {
-  color: #000000;
-}
-.cid-vfzY7mEFL6 .mbr-text,
-.cid-vfzY7mEFL6 .mbr-section-btn {
-  color: #232323;
+.cid-vfAcAhOZ6c .content-head {
+  max-width: 800px;
 }
 .cid-vfmSznZLU3 {
   padding-top: 4rem;
