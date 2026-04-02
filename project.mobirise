@@ -287,27 +287,11 @@
     },
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
-    "chatbutton": {
-      "phone": "‪(251) 281-8759‬",
-      "message": "",
-      "size": "65px",
-      "backgroundColor": "#232323",
-      "position": "left",
-      "popupMessage": "Welcome, How can we help?",
-      "showPopup": true,
-      "showOnIE": true,
-      "autoOpenTimeout": "5",
-      "headerColor": "#ea1a1a",
-      "headerTitle": "Chat with us Live",
-      "placeholder": "Type here",
-      "zIndex": 10,
-      "enabled": true
-    },
     "usedWebp": false,
     "cssOptimize": true,
     "lazyLoad": true,
     "favicon": false,
-    "mbrsiteDomain": "n03nfgiclq",
+    "mbrsiteDomain": "8fcz1iucf5",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -319,7 +303,8 @@
       "enabled": false
     },
     "google-analytics": "",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "chatbutton": false
   },
   "pages": {
     "index.html": {
