@@ -1457,6 +1457,11 @@ a {
 }
 .cid-vflK0IaBhf .mbr-section-title {
   color: #000000;
+  text-align: left;
+}
+.cid-vflK0IaBhf .mbr-section-subtitle,
+.cid-vflK0IaBhf .main-button DIV {
+  text-align: left;
 }
 .cid-v1ZCyiUUAL {
   padding-top: 3rem;
