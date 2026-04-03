@@ -291,7 +291,7 @@
     "cssOptimize": true,
     "lazyLoad": true,
     "favicon": false,
-    "mbrsiteDomain": "8fcz1iucf5",
+    "mbrsiteDomain": "bjtrhgo6bj",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -304,7 +304,7 @@
     },
     "google-analytics": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "chatbutton": false
+    "chatbutton": {}
   },
   "pages": {
     "index.html": {
@@ -316,7 +316,7 @@
         "footer_custom": "",
         "html_before": "",
         "socialSharingUrl": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/vintage-car-scene-wi.png-1536x1024.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/bamabobssharing.jpg-1536x1024.jpg"
       },
       "components": [
         {
