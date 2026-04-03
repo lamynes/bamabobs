@@ -1291,6 +1291,9 @@ a {
     object-fit: cover;
   }
 }
+.cid-vflHhaTtaM .row {
+  flex-direction: row-reverse;
+}
 .cid-vfzL7rUfbB {
   padding-top: 4rem;
   padding-bottom: 4rem;
