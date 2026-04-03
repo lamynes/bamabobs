@@ -1204,7 +1204,7 @@ a {
   color: #ffffff;
 }
 .cid-vflHhaTtaM {
-  background-image: url("../../../assets/images/unnamed-26.webp");
+  background-image: url("../../../assets/images/hd-restaurant-interi.png-1536x1024.png");
 }
 .cid-vflHhaTtaM .item-wrapper {
   margin-bottom: 2rem;
@@ -1383,6 +1383,71 @@ a {
     padding: 0;
   }
 }
+.cid-vfLO1qKpbO {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-vfLO1qKpbO .card {
+  padding-top: 30px;
+  background: none;
+  border-radius: 0;
+}
+.cid-vfLO1qKpbO .item-wrapper {
+  transition: all .3s;
+}
+.cid-vfLO1qKpbO .mbr-text {
+  font-weight: 700;
+}
+.cid-vfLO1qKpbO .features-image {
+  padding-top: 65px;
+}
+.cid-vfLO1qKpbO .features-image:first-child {
+  padding-top: 0px;
+}
+.cid-vfLO1qKpbO .features-image:nth-child(2) {
+  padding-top: 0px;
+}
+.cid-vfLO1qKpbO .features-image:nth-child(3) {
+  padding-top: 0px;
+}
+@media (min-width: 575px) and (max-width: 990px) {
+  .cid-vfLO1qKpbO .features-image {
+    padding-top: 65px;
+  }
+  .cid-vfLO1qKpbO .features-image:first-child {
+    padding-top: 0px;
+  }
+  .cid-vfLO1qKpbO .features-image:nth-child(2) {
+    padding-top: 0px;
+  }
+  .cid-vfLO1qKpbO .features-image:nth-child(3) {
+    padding-top: 65px;
+  }
+}
+@media (max-width: 574px) {
+  .cid-vfLO1qKpbO .features-image {
+    padding-top: 65px;
+  }
+  .cid-vfLO1qKpbO .features-image:first-child {
+    padding-top: 0px;
+  }
+  .cid-vfLO1qKpbO .features-image:nth-child(2) {
+    padding-top: 65px;
+  }
+  .cid-vfLO1qKpbO .features-image:nth-child(3) {
+    padding-top: 65px;
+  }
+}
+.cid-vfLO1qKpbO .col-12:hover .item-wrapper {
+  box-shadow: 0 10px 30px 0 rgba(189, 189, 189, 0.35);
+  transform: translateY(-6px);
+  transition: all .3s;
+}
+.cid-vfLO1qKpbO .desc1,
+.cid-vfLO1qKpbO .iconfont-wrapper {
+  text-align: left;
+}
 #custom-html-17 {
   /* Type valid CSS here */
 }
@@ -1398,7 +1463,7 @@ a {
 .cid-vflK0IaBhf {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/unnamed-26.webp");
+  background-image: url("../../../assets/images/hd-restaurant-interi.png-1536x1024.png");
 }
 .cid-vflK0IaBhf .mbr-fallback-image.disabled {
   display: none;
