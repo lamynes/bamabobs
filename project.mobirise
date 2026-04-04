@@ -291,7 +291,7 @@
     "cssOptimize": true,
     "lazyLoad": true,
     "favicon": false,
-    "mbrsiteDomain": "bjtrhgo6bj",
+    "mbrsiteDomain": "7qakftcsjx",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -302,7 +302,7 @@
     "PWA": {
       "enabled": false
     },
-    "google-analytics": "",
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-2ENRTNZQX8\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-2ENRTNZQX8');\n</script>",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "chatbutton": {}
   },
