@@ -1464,7 +1464,7 @@
               "text-align": "center"
             },
             ".copyright": {
-              "color": "#000000"
+              "color": "#ea1a1a"
             },
             ".list": {
               "letter-spacing": ".2em",
