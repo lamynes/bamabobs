@@ -291,7 +291,7 @@
     "cssOptimize": true,
     "lazyLoad": true,
     "favicon": false,
-    "mbrsiteDomain": "7qakftcsjx",
+    "mbrsiteDomain": "tf7xccvuwi",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -1100,21 +1100,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n<audio controls=\"\">\n  <source src=\"Bama-Bobs.mp3\" type=\"audio/mpeg\">\n</audio>\n\n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 50px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_sourceTheme": "startm5",
-          "_anchor": "custom-html-17",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
         },
         {
           "alias": false,
